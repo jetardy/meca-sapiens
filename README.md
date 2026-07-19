@@ -1,0 +1,1 @@
+About ten years ago I published a system architecture to implement consciousness in autonomous agents. Current LLMs now make implementation possible. The baseline is a streamlined version of the original architecture (msbai.txt). I am working with LLMs to transform it into a design.
